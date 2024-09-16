@@ -10,6 +10,33 @@ using the right usb cable is important.
 `. {path/bin/activate}`
 `pip install stcgal`
 
+# stc89c52rc
+ram: 512 bytes
+
+12 or 6 clocks per machine cycle
+
+DPTR: Dual Data Pointer
+
+ISP: in system programming
+
+IAP: in application programming
+
+machine cycle
+
+SFR: special function register
+
+POR: Power-On Reset
+
+addressing modes: 8 modes
+- register
+- direct
+- indirect
+- immediate
+- relative
+- absolute
+- long
+- indexed
+
 # ref
 - https://sdcc.sourceforge.net/
 - https://github.com/grigorig/stcgal
