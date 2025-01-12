@@ -6,7 +6,7 @@ using the right usb cable is important.
 
 # stcgal
 `sudo emerge -a dev-python/pip`
-`python -m env {path}`
+`python -m venv {path}`
 `. {path/bin/activate}`
 `pip install stcgal`
 
